@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LinkedListTest" tests="45" skipped="0" failures="0" errors="0" timestamp="2022-05-10T10:12:18" hostname="yatorogod-laptop" time="0.031">
+  <properties/>
+  <testcase name="testSetInListOnException" classname="LinkedListTest" time="0.002"/>
+  <testcase name="testSizeWhenSizeIs0" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testContainsOnNull" classname="LinkedListTest" time="0.002"/>
+  <testcase name="testIsEmptyWhenEmpty" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testIteratorSetWhenNeitherNextNorPreviousHaveBeenCalled" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testGetInListOnException" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testAdd" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testHasNextInEmptyList" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIterRemoveTwoTimeInTheRow" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testClear" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testNextOnOneElementInCollection" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testPreviousIndexWhenEmptyCollection" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testNextOnEmptyCollection" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveByIndex" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testHasPreviousWhenEmptyCollection" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRetainAll" classname="LinkedListTest" time="0.002"/>
+  <testcase name="testNextAfterPrevious" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testIterRemoveAfterPrevious" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testPreviousOnCollectionWithOneElement" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testContainsAll" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testRemoveLastIndex" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testHasPreviousWhenIteratorAtTheEndOfTheCollection" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testHasPreviousWhenIteratorAtTheBeginningOfTheCollection" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testRemoveFirstIndex" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveLastItem" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testContains" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testHasNext" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveBeforeNext" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testToArrayWhenInputArrayHaveCorrectSize" classname="LinkedListTest" time="0.002"/>
+  <testcase name="testPreviousWhenEmptyCollection" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIteratorSet" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetInList" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testPreviousSeveralTimesOneByOneFromTheEndOfList" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testToArrayWhenInputArrayHaveSizeOne" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testGetInList" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAddAll" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIterRemove" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIndexOf" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testPreviousIndex" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testPreviousIndexWhenItEqualsTo1" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testPreviousAfterNext" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testNextIndex" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testNextIndexInEmptyList" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveAll" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveFirstItem" classname="LinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
